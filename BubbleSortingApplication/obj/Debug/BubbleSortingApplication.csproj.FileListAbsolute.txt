@@ -1,0 +1,7 @@
+C:\Users\nazar\source\repos\BubbleSortingApplication\BubbleSortingApplication\bin\Debug\BubbleSortingApplication.exe.config
+C:\Users\nazar\source\repos\BubbleSortingApplication\BubbleSortingApplication\bin\Debug\BubbleSortingApplication.exe
+C:\Users\nazar\source\repos\BubbleSortingApplication\BubbleSortingApplication\bin\Debug\BubbleSortingApplication.pdb
+C:\Users\nazar\source\repos\BubbleSortingApplication\BubbleSortingApplication\obj\Debug\BubbleSortingApplication.csprojAssemblyReference.cache
+C:\Users\nazar\source\repos\BubbleSortingApplication\BubbleSortingApplication\obj\Debug\BubbleSortingApplication.csproj.CoreCompileInputs.cache
+C:\Users\nazar\source\repos\BubbleSortingApplication\BubbleSortingApplication\obj\Debug\BubbleSortingApplication.exe
+C:\Users\nazar\source\repos\BubbleSortingApplication\BubbleSortingApplication\obj\Debug\BubbleSortingApplication.pdb
